@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "any": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "chrono": "cpp",
+        "format": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "iosfwd": "cpp"
+    }
+}
